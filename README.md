@@ -1,7 +1,6 @@
 ### Hi! 👋 I'm Ridwan Febnur Asri Redinda.
 
 - 🌱 I’m currently learning Web Development
-- ⚡ Fun fact: I am Newbie
 <!--
 **ridwanfbnr/ridwanfbnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am Newbie
 -->
 
-### Github Statistic
+<!-- ### Github Statistic
 <p align="left">
 <a href="https://github.com/ridwanfbnr">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ridwanfbnr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ridwanfbnr&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</p> -->
