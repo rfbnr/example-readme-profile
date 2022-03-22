@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Ridwan Febnur Asri Redinda.
+### Hi! 👋 I'm Ridwan Febnur AR.
 
 - 🌱 I’m currently learning Web Development
 <!--
