@@ -1,17 +1,16 @@
 [![Matrix SVG](https://raw.githubusercontent.com/ridwanfbnr/ridwanfbnr/main/assets/images/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-
-<!-- <h3 align="center">Student at the Muhammadiyah University of Tangerang 🌟</h3> -->
-
-<!-- <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p> -->
-
 <br>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Ridwan Febnur Asri Redinda</h1>
+<!-- <h3 align="center">Student at the Muhammadiyah University of Tangerang 🌟</h3> -->
 
-<p><img align="right" src="https://github.com/ridwanfbnr/ridwanfbnr/blob/main/assets/images/Right_Side.gif?raw=true" alt="ridwanfbnr" width="30%" /></p>
+<p>
+    <img align="right" 
+    src="https://github.com/ridwanfbnr/ridwanfbnr/blob/main/assets/images/Right_Side.gif?raw=true" 
+    alt="ridwanfbnr" 
+    width="30%" />
+</p>
 
 <br>
 
@@ -41,27 +40,36 @@
 
 ## 🔗 Social Media :
 <p align='center'>
-<a href="https://www.instagram.com/" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ridwanfbnr/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/" target="_blank">
+        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+    </a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/ridwanfbnr/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>&nbsp;&nbsp;
 </p>
 <br>
 
-<!-- <h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
+<!-- <h3>Statistical Data :</h3>
+<p align="center">
+    <img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ridwanfbnr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="ridwanfbnr" 
+    bg_color=#808080/>
+</p>
+
+<p align="center">&nbsp;
+    <img align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=ridwanfbnr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="ridwanfbnr" />
+</p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridwanfbnr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="ridwanfbnr" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanfbnr&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="ridwanfbnr" /></p>
+<p align="center">
+    <img align="center" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanfbnr&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" 
+    alt="ridwanfbnr" />
+</p>
 
 <br> -->
       
