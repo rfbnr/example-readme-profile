@@ -11,7 +11,7 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Ridwan Febnur Asri Redinda</h1>
 
-<p><img align="right" src="https://github.com/ridwanfbnr/ridwanfbnr/blob/main/assets/images/animation_500_kxa883sd.gif?raw=true" alt="ridwanfbnr" width="30%" /></p>
+<p><img align="right" src="https://github.com/ridwanfbnr/ridwanfbnr/blob/main/assets/images/Right_Side.gif?raw=true" alt="ridwanfbnr" width="30%" /></p>
 
 <br>
 
