@@ -1,7 +1,6 @@
 <!-- [![Matrix SVG](https://raw.githubusercontent.com/ridwanfbnr/ridwanfbnr/main/assets/images/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
 <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE"/>
 
-<br>
 
 <h1 align="center">Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Ridwan Febnur Asri Redinda</h1>
 <!-- <h3 align="center">Student at the Muhammadiyah University of Tangerang 🌟</h3> -->
@@ -65,7 +64,6 @@
 
 ---
 
-<br/>
 
 <!-- ## 💻 Tech Stack:
 
